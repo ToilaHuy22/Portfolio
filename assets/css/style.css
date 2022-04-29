@@ -41,7 +41,7 @@ p {
 /*Hero Section*/
 
 #hero {
-    background-image: url('/assets/img/_MG_0046.JPG');
+    background: url('../img/_MG_0046.JPG');
     background-size: cover;
     background-position: top center;
     position: relative;
